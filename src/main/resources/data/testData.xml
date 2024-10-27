@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <offerData>
+        <customer>Adrian</customer>
+        <products>
+            <name>Paine</name>
+            <price>22</price>
+        </products>
+        <products>
+            <name>Orez</name>
+            <price>25.2</price>
+        </products>
+        <products>
+            <name>Lapte</name>
+            <price>15.00</price>
+        </products>
+    </offerData>
+
+    <offerData>
+        <customer>Popescu</customer>
+        <products>
+            <name>Paine</name>
+            <price>22</price>
+        </products>
+        <products>
+            <name>Orez</name>
+            <price>25.2</price>
+        </products>
+        <products>
+            <name>Lapte</name>
+            <price>15.00</price>
+        </products>
+    </offerData>
+
+
+</configuration>
